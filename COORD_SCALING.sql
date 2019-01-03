@@ -1,0 +1,46 @@
+--------------------------------------------------------
+--  DDL for Procedure COORD_SCALING
+--------------------------------------------------------
+set define off;
+
+  CREATE OR REPLACE NONEDITIONABLE PROCEDURE "SYS"."COORD_SCALING" 
+(
+  SX_LAT IN VARCHAR2 
+, SY_LONG IN VARCHAR2 
+, M_R1_C1 IN NUMBER DEFAULT 1
+, S_R1_C1 OUT NUMBER
+, M_R1_C2 IN NUMBER DEFAULT 0
+, S_R1_C2 OUT NUMBER
+, M_R1_C3 IN NUMBER DEFAULT 0
+, S_R1_C3 OUT NUMBER
+, M_R2_C1 IN NUMBER DEFAULT 0
+, S_R2_C1 OUT NUMBER
+, M_R2_C2 IN NUMBER DEFAULT 1
+, S_R2_C2 OUT NUMBER
+, M_R2_C3 IN NUMBER DEFAULT 0
+, S_R2_C3 OUT NUMBER
+, M_R3_C1 IN NUMBER DEFAULT 0
+, S_R3_C1 OUT NUMBER
+, M_R3_C2 IN NUMBER DEFAULT 0
+, S_R3_C2 OUT NUMBER
+, M_R3_C3 IN NUMBER DEFAULT 1
+, S_R3_C3 OUT NUMBER
+) AS 
+BEGIN
+  -- Primera fila
+  S_R1_C1 := M_R1_C1*SX_LAT;
+  S_R1_C2 := M_R1_C2*SY_LONG;
+  S_R1_C3 := M_R1_C3;
+  
+  -- Segunda fila
+  S_R2_C1 := M_R2_C1*SX_LAT;
+  S_R2_C2 := M_R2_C2*SY_LONG;
+  S_R2_C3 := M_R2_C3;
+  
+  -- Tercera fila
+  S_R3_C1 := M_R3_C1*SX_LAT;
+  S_R3_C2 := M_R3_C2*SY_LONG;
+  S_R3_C3 := M_R3_C3;
+END COORD_SCALING;
+
+/
