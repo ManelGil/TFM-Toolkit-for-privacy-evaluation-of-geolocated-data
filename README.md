@@ -1,11 +1,11 @@
 # 1. Métodos de sanitización
 ## 1.1. Perturbación
-### 1.1.1. Transformaciones primarias
+### Transformaciones primarias
 - [Traslación](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/COORD_TRANSLATION.sql)
 - [Escala](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/COORD_SCALING.sql)
 - [Rotación](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/COORD_ROTATION.sql)
 
-### 1.1.2. Composición de transformaciones
+### Composición de transformaciones
 - [Rotación 2º](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/TRANSF_ROT_2DEG.sql)
 - [Rotación 5º](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/TRANSF_ROT_5DEG.sql)
 - [Escala 1-0.7](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/TRANSF_SCL_1_07.sql)
