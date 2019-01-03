@@ -35,3 +35,34 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+# Métodos de sanitización
+## Perturbación
+### Transformaciones primarias
+- [Traslación]()
+- [Escala]()
+- [Rotación]()
+### Composición de transformaciones
+- [Rotación 2º]()
+- [Rotación 5º]()
+- [Escala 1-0.7]()
+- [Escala 1.05-0.9]()
+- [Escala 0.95-0.95 + Rotación 1º]()
+
+## [Agregación]()
+
+## [Swapping]()
+
+# Ataques
+## Sobre el dataset CabSpotting
+[Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END.sql)
+## Sobre datasets sanitizados
+### Rotación 2º
+### Rotación 5º
+### Escala 1-0.7
+### Escala 1.05-0.9
+### Escala 0.95-0.95 + Rotación 1º
+### Agregación
+### Swapping
