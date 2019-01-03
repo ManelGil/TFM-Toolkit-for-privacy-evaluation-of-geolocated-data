@@ -44,6 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - [Traslación](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/COORD_TRANSLATION.sql)
 - [Escala](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/COORD_SCALING.sql)
 - [Rotación](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/COORD_ROTATION.sql)
+
 ### Composición de transformaciones
 - [Rotación 2º](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/TRANSF_ROT_2DEG.sql)
 - [Rotación 5º](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/TRANSF_ROT_5DEG.sql)
@@ -60,6 +61,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS.sql)
+
 ## Sobre datasets sanitizados
 ### Rotación 2º
 - [Inferred homes]()
