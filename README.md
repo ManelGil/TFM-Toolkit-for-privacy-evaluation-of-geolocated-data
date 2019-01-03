@@ -59,6 +59,7 @@
 - [Escala 0.95-0.95 + Rotación 1º](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/UNIQ_5P_SC_095_095_ROT1D.sql)
 - [Agregación](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/UNIQUENESS_5P_AGGREGATED.sql)
 - [Swapping](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/UNIQUENESS_5P_SWAP_T10_D20.sql)
+
 ---
 # 3. Ataques
 ## 3.1. Sobre el dataset CabSpotting
