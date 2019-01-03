@@ -67,26 +67,32 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_ROT_2DEG.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_ROT_2DEG.sql)
+
 ### Rotación 5º
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_ROT_5DEG.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_ROT_5DEG.sql)
+
 ### Escala 1-0.7
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SCL_1_07.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_SCL_1_07.sql)
+
 ### Escala 1.05-0.9
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SCL_105_09.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_SCL_105_09.sql)
+
 ### Escala 0.95-0.95 + Rotación 1º
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SCL_095_095_ROT_1DEG.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_SCL_095_095_ROT_1DEG.sql)
+
 ### Agregación
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_AGGREGATION.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_TRACES_AGGREGATED.sql)
+
 ### Swapping
 - [Inferred homes]()
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SWAPPED_T10_D20.sql)
