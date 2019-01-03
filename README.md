@@ -63,42 +63,42 @@
 ---
 # 3. Ataques
 ## 3.1. Sobre el dataset CabSpotting
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS.sql)
 
 ## 3.2. Sobre datasets sanitizados
 ### Rotación 2º
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full_Rot_2Deg.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_ROT_2DEG.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_ROT_2DEG.sql)
 
 ### Rotación 5º
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full_Rot_5Deg.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_ROT_5DEG.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_ROT_5DEG.sql)
 
 ### Escala 1-0.7
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full_Scal_1_07.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SCL_1_07.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_SCL_1_07.sql)
 
 ### Escala 1.05-0.9
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full_Scal_105_09.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SCL_105_09.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_SCL_105_09.sql)
 
 ### Escala 0.95-0.95 + Rotación 1º
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full_Scal_095_095_Rot_1Deg.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SCL_095_095_ROT_1DEG.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_SCL_095_095_ROT_1DEG.sql)
 
 ### Agregación
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full_Aggregation.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_AGGREGATION.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_TRACES_AGGREGATED.sql)
 
 ### Swapping
-- [Inferred homes]()
+- [Inferred homes](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/SwapMob_Inferred_Homes_Full_Swap_T10_D20.sql)
 - [Begin-End](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/BEGIN_END_SWAPPED_T10_D20.sql)
 - [Stays](https://github.com/ManelGil/TFM-Toolkit-for-privacy-evaluation-of-geolocated-data/blob/master/STAYS_SWAPPED_T10_D20.sql)
